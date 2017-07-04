@@ -9,10 +9,10 @@ var reload = browserSync.reload;
 
 
 var src = {
-    scss: 'assets/sass/**/*.scss',
-    css: 'assets/css',
+    scss: 'sass/**/*.scss',
+    css: 'css',
     html: '*.html',
-    js: 'assets/js/**/*.js',
+    js: 'js/**/*.js',
     //  svg:'assets/images/**/*.svg'
 };
 
